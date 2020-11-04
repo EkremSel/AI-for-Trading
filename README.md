@@ -52,6 +52,7 @@ Recurrence Neutral Networks:
 Learn to use RNN to predict simple Time Series and train Character-Level LSTM to generate new text based on the text from the book.
 Learn Word2Vec algorithm using the Skip-gram Architecture and with Negative Sampling.
 Sentiment Analysis RNN: Implement a recurrent neural network that can predict if the text of a movie review is positive or negative.
+
 7. Combining Signals for Enhanced Alpha. Project
 Decision Tree: Learn how to branching decision tree using entropy and information gain. Implement decision tree using sklearn for Titanic Survival Exploration and visualize the decision tree using graphviz.
 
